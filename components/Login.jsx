@@ -95,7 +95,7 @@ export default function Login() {
         </div>
         <div className="full-line"></div>
         <footer>
-          <a target="_blank" href="https://github.com/Umair-dev320/nextjs-15">
+          <a target="_blank" href="https://github.com/Umair-dev320/nestjs-15">
             <img
               alt="pfp"
               src="https://avatars.githubusercontent.com/u/141720029?v=4"
